@@ -1,0 +1,3 @@
+creation_rules:
+  - path_regex: .*.enc.yaml$
+    age: age17jj3qrr0yje37k9cvp8fmrdr9z779yjqnecync65s3g82rca0y5s9tewwf  # your public key
